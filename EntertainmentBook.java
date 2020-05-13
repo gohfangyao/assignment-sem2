@@ -30,7 +30,7 @@ public class EntertainmentBook extends Book //inherit from the class Book.
 		System.out.println("This book have a hook, desire, conflict, challange, climax and resolution. ");	
 	}	
 	
-	public static void interested()
+	public static void interested_by()
 	{
 		System.out.println("This book is interested by children.");
 	}	
